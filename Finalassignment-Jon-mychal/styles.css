@@ -1,0 +1,94 @@
+body {
+  background-color: white;
+}
+h1 {
+  color: black;
+}
+p {
+  color: black;
+}
+
+
+table, th, td {
+  border: 10px solid black;
+  border-collapse: collapse;
+  font-size: 40px;
+  background-color: white;
+
+}
+td {
+	font-size: 20px;
+	color: black}
+	
+th, td {
+  padding: 24px;
+}
+body {
+  background-image: url('https://image.freepik.com/free-photo/colorful-background-with-red-blue-walls_23-2148314133.jpg');
+background-repeat: repeat-x;
+background-size ="width:10000px;height:1420px;
+}
+.cities {
+  background-color: yellow;
+  color: white;
+  margin: 20px;
+  padding: 20px;
+  font-size: 20px;
+} 
+
+.borders {
+  background-color: grey;
+  color: white;
+  margin: 20px;
+  padding: 20px;
+} 
+
+.quotes {
+  background-color: purple;
+  color: green;
+  margin: 20px;
+  padding: 20px;
+} 
+h3 {color: white;
+ margin: 20px;
+  padding: 20px;
+  font-family: verdana;
+  font-size: 150px;
+  }
+  
+h2 { color: white;
+  font-family: verdana;
+  font-size: 100%;}
+  
+  .allmyh1{color:green}
+  
+p {
+  border: 17px; solid white;
+  padding: 30px;
+    margin: 20px;
+  padding: 20px;
+} 
+h1 {
+  color: green;
+  font-family: verdana;
+  font-size: 200%;
+    margin: 20px;
+  padding: 20px;
+}
+p  {
+  color: black;
+  font-family: courier;
+  font-size: 200%;
+    margin: 20px;
+  padding: 20px;
+}
+
+img {
+   width:104px;
+   height:142px; 
+   float: right;
+  margin: 1px;
+  padding: 10px;
+}
+nav {
+	font-size: 39px}
